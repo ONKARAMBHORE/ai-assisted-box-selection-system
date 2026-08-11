@@ -169,12 +169,7 @@ The final test cases passed successfully.
 
 ## 7. My Understanding
 
-While using AI, I tried to understand the code instead of only copying it.
+while using ai, i tried to understand the code from the chatgpt.
 
-ChatGPT helped me understand Django REST Framework concepts like
-serializers, ViewSets, routers, nested serializers and API testing.
-
-I also learned how to read Django error messages and find the problem
-in the code.
-
-AI was used as a learning and debugging help during the assignment.
+chatgpt helped me to understand django rest framework concepts like serializers, viewsets, routers, nested serializers and api testing. also learned how to read django error messages and find the problem in my code.
+ai was used by me as a learning and debugging help during the assignment.

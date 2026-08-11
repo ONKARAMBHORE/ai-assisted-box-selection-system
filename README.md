@@ -130,12 +130,6 @@ recommendation and the no-suitable-box scenario.
 
 ## Learning Outcome
 
-While working on this project, I learned how to create Django models and build REST APIs using Django REST Framework.
+While working on this project, I learned how to create Djqngo model  and build rest apis using Django REST Framework. and also understand how products, boxes and orders are connected with each other. i also learned how to write the box selection logic based on weight dimensions and cost.
 
-I understood how products, boxes and orders are connected with each other.
-
-I also learned how to write the box selection logic based on weight, dimensions and cost.
-
-
-
-I also got better understanding of API testing and fixing errors during development.
+i have also understand during th edevelopement test the apis using the postmen and and fix the perticular errors  
